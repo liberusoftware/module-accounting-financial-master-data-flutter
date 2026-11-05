@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-financial-master-data-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-financial-master-data",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_financial_master_data_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/financial-master-data.md",
+  "presentationPlan": "projects/accounting/flutter/financial-master-data.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
